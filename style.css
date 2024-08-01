@@ -1,11 +1,11 @@
 
 body{
-    background: linear-gradient(to right, #ff0000, #cd06ff, #fffb00, #00ec14);
+    background: linear-gradient(to right, #ff0000, #cd06ff, #093eec94, #00ec14);
 }
 h1{
    font-size: 70px;
    text-align: center;
-   color:rgb(255, 214, 127)
+   color:rgba(255, 127, 127, 0)
 }
 
 
